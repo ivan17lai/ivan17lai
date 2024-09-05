@@ -1,2 +1,2 @@
 ## Yihuan Lai
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+<img src="[{[BadgeURLHere](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)}](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)" />
