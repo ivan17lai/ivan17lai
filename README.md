@@ -6,7 +6,7 @@
 * **HTML/JS/CSS** - 網頁應用程式 | 靜態網頁設計
 * **Flutter/Dart** - 跨平台手機應用程式開發
 * **C#** - 電腦軟體設計 | Windows Form
-* **C/C++/Java** 簡易應用程式
+* **C/C++/Java** 應用
 ---
 * **Rhino** - 3D模型設計 | 雷射切割圖繪製
 * **Arduino/Esp32** - 機電整合
