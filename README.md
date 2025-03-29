@@ -1,38 +1,34 @@
 ## Yihuan Lai
 
-### I have used...
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 研究內容
+---
+* Python - 應用程式 | 網頁後端 | AI應用
+* HTML/JS/CSS - 網頁應用程式 | 靜態網頁設計
+* Flutter/Dart - 跨平台手機應用程式開發
+* C# - 電腦軟體設計 | Windows Form
+* C/C++/Java 簡易應用程式
+---
+* Rhino - 3D模型設計 | 雷射切割圖繪製
+* Arduino/Esp32 - 機電整合
 
-<details>
-  <summary>開發</summary>
-  
-![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![image](	https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-</details>
-
-<details>
-  <summary>開發</summary>
-  
-![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![image](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![image](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-</details>
-
-<details>
-  <summary>簡歷</summary>
-
-  ## 教育
-  #### 北科附工 電子科 TYAI
-  
-
-</details>
+### 我的作品
+---
+* [shinherpro](https://github.com/ivan17lai/shinherpro)
+自動查詢校園成績查詢系統新公布的成績 並即時傳送通知 
+* [校園自駕車](https://www.youtube.com/watch?v=bZv1S-PtMZg&t=175s)
+與團隊一起參加專題競賽取得銅牌，廢棄協力車改造，具備低階自動駕駛能力
+* [神奇鍵盤](https://www.youtube.com/watch?v=-L25511c_Dw)
+我的高中畢業專題，由可觸控也可按壓的按鍵組成，能有效練習盲打，及擴充各種實用功能
+* [IDphotoCam-TY](https://github.com/ivan17lai/IDphotoCam-TY) 
+簡化桃園各校拍攝上千張學生證件照的流程 並符合桃園市證件照格式規定
+* [事務股長APP](https://github.com/ivan17lai/class-recorder)
+可通過APP方便的紀錄班級作業、班費等等的繳交情況
+### 經歷
+---
+* 全國技藝競賽-電腦軟體設計-金手獎第七名
+* 全國高中職專題競賽-電機電子群-第三名 -《校園自駕車》
+### 證明
+---
+* 數位電子乙級
+* 工業電子丙級
+* 電腦軟體應用丙級
