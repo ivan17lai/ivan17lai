@@ -7,6 +7,7 @@
 * **Flutter/Dart** - 跨平台手機應用程式開發
 * **C#** - 電腦軟體設計 | Windows Form
 * **C/C++/Java** 應用
+* **LLM** 功能整合 | 提示工程
 ---
 * **Rhino** - 3D模型設計 | 雷射切割圖繪製
 * **Arduino/Esp32** - 機電整合
