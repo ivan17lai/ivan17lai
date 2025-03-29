@@ -8,8 +8,8 @@
 * **C#** - 電腦軟體設計 | Windows Form
 * **C/C++/Java** 簡易應用程式
 ---
-* Rhino - 3D模型設計 | 雷射切割圖繪製
-* Arduino/Esp32 - 機電整合
+* **Rhino** - 3D模型設計 | 雷射切割圖繪製
+* **Arduino/Esp32** - 機電整合
 
 ### 我的作品
 ---
