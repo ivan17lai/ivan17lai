@@ -17,7 +17,7 @@
 * [shinherpro](https://github.com/ivan17lai/shinherpro)
 自動查詢校園成績查詢系統新公布的成績 並即時傳送通知 
 * [校園自駕車](https://www.youtube.com/watch?v=bZv1S-PtMZg&t=175s)
-與團隊一起參加專題競賽取得銅牌，廢棄協力車改造，具備低階自動駕駛能力
+與團隊一起參加專題競賽取得銅牌，廢棄協力車改造，具備基礎自動駕駛能力
 * [神奇鍵盤](https://www.youtube.com/watch?v=-L25511c_Dw)
 我的高中畢業專題，由可觸控也可按壓的按鍵組成，能有效練習盲打，及擴充各種實用功能
 * [IDphotoCam-TY](https://github.com/ivan17lai/IDphotoCam-TY) 
