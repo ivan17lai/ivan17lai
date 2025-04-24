@@ -22,8 +22,8 @@
 我的高中畢業專題，由可觸控也可按壓的按鍵組成，能有效練習盲打，及擴充各種實用功能
 * [IDphotoCam-TY](https://github.com/ivan17lai/IDphotoCam-TY) 
 簡化桃園各校拍攝上千張學生證件照的流程 並符合桃園市證件照格式規定
-* [事務股長APP](https://github.com/ivan17lai/class-recorder)
-可通過APP方便的紀錄班級作業、班費等等的繳交情況
+* [PDF2ImagePPT](ivan17lai.github.io/PDF2ImagePPT/)
+為了能在PowerPoint中正確顯示在Canva中的設計而生，能夠保持字體、格式不變
 ### 經歷
 ---
 * 全國技藝競賽-電腦軟體設計-金手獎第七名
