@@ -22,7 +22,7 @@
 我的高中畢業專題，由可觸控也可按壓的按鍵組成，能有效練習盲打，及擴充各種實用功能
 * [IDphotoCam-TY](https://github.com/ivan17lai/IDphotoCam-TY) 
 簡化桃園各校拍攝上千張學生證件照的流程 並符合桃園市證件照格式規定
-* [PDF2ImagePPT](ivan17lai.github.io/PDF2ImagePPT/)
+* [PDF2ImagePPT](https://ivan17lai.github.io/PDF2ImagePPT/)
 為了能在PowerPoint中正確顯示以Canva設計的簡報而生，能夠保持字體、格式不變
 ### 經歷
 ---
