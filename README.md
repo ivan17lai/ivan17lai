@@ -23,7 +23,7 @@
 * [IDphotoCam-TY](https://github.com/ivan17lai/IDphotoCam-TY) 
 簡化桃園各校拍攝上千張學生證件照的流程 並符合桃園市證件照格式規定
 * [PDF2ImagePPT](ivan17lai.github.io/PDF2ImagePPT/)
-為了能在PowerPoint中正確顯示在Canva中的設計而生，能夠保持字體、格式不變
+為了能在PowerPoint中正確顯示以Canva設計的簡報而生，能夠保持字體、格式不變
 ### 經歷
 ---
 * 全國技藝競賽-電腦軟體設計-金手獎第七名
