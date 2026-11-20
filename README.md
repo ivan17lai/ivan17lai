@@ -14,6 +14,8 @@
 
 ### 我的作品
 ---
+* [Auportal](https://auportal.app/)
+大學校園快捷入口，協助學生管理系統自動登入，以及各項校園資訊整理圖像化
 * [shinherpro](https://github.com/ivan17lai/shinherpro)
 自動查詢校園成績查詢系統新公布的成績 並即時傳送通知 
 * [校園自駕車](https://www.youtube.com/watch?v=bZv1S-PtMZg&t=175s)
