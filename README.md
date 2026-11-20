@@ -16,6 +16,8 @@
 ---
 * [Auportal](https://auportal.app/)
 大學校園快捷入口，協助學生管理系統自動登入，以及各項校園資訊整理圖像化
+* [HDR貼文工作室](https://github.com/ivan17lai/post-studio)
+專為社群設計的貼文設計工作室，與其他APP不同的是，支援UltraHDR元數據保留
 * [shinherpro](https://github.com/ivan17lai/shinherpro)
 自動查詢校園成績查詢系統新公布的成績 並即時傳送通知 
 * [校園自駕車](https://www.youtube.com/watch?v=bZv1S-PtMZg&t=175s)
